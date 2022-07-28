@@ -13,7 +13,7 @@ A curated list of isometric resources.
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="awesome-isometric.png" />
 </a>
 
 <!-- description -->
