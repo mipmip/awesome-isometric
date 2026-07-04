@@ -37,6 +37,7 @@ A curated list of isometric resources.
 ## Diagram
 
 - [CloudCraft](https://www.cloudcraft.co/) - Online Isometric AWS Architecture diagramming tool.
+- [EsDraw](https://github.com/softalink/esdraw) - Right-click 2.5D isometric shearing for draw.io, modeled on icograms.
 
 <!-- END CONTENT -->
 
