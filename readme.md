@@ -33,6 +33,7 @@ A curated list of isometric resources.
 ## Graphic Resources
 
 - [IsoFlat](https://isoflat.com) - Isometric and flat graphic resources.
+- [Gridwright Isometric Builder](https://gridwright.store/tools/isobuilder) - Browser map editor for isometric pixel art that exports PNG, animated GIF, Godot scenes and Tiled maps. The free edition uses sample pieces; the full edition is part of a subscription.
 
 ## Diagram
 
